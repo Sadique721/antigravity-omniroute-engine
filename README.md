@@ -1,6 +1,6 @@
 <!-- ========== 1. DYNAMIC HEADER BANNER (CAPSULE RENDER) ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Antigravity%20↔%20OmniRoute%20Engine&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Zero-Cost%20Local-First%20AI%20Routing%20%26%20Agentic%20Bridge%20⚡&descSize=17&descAlignY=62&descAlign=50" width="100%" alt="Antigravity OmniRoute Engine Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Antigravity%20-%20OmniRoute%20Engine&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Zero-Cost%20Local-First%20AI%20Routing%20and%20Agentic%20Bridge&descSize=17&descAlignY=62&descAlign=50" width="100%" alt="Antigravity OmniRoute Engine Banner" />
 </p>
 
 <!-- ========== 2. ANIMATED TYPING SVG BANNER ========== -->
