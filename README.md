@@ -1,24 +1,39 @@
-<div align="center">
-
-# 🚀 Antigravity ↔ OmniRoute Engine
-### ⚡ High-Performance, Zero-Cost Local AI Routing & Agentic Bridge ⚡
-
-[![GitHub Stars](https://img.shields.io/github/stars/Sadique721/antigravity-omniroute-engine?style=for-the-badge&logo=github&color=gold)](https://github.com/Sadique721/antigravity-omniroute-engine/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Sadique721/antigravity-omniroute-engine?style=for-the-badge&logo=github&color=blue)](https://github.com/Sadique721/antigravity-omniroute-engine/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Node.js](https://img.shields.io/badge/Node.js-v24.12.0-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Ollama](https://img.shields.io/badge/Ollama-Local%20Inference-black?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
-[![Status: Certified](https://img.shields.io/badge/System-100%25%20Verified-success?style=for-the-badge)](https://github.com/Sadique721/antigravity-omniroute-engine)
-
+<!-- ========== 1. DYNAMIC HEADER BANNER (CAPSULE RENDER) ========== -->
 <p align="center">
-  <b>A production-grade, local-first integration bridge connecting Antigravity (IDE/Agent) with local Ollama open-weights models (DeepSeek-R1, Qwen 2.5 Coder) and zero-cost public cloud aggregators via OmniRoute.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Antigravity%20↔%20OmniRoute%20Engine&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Zero-Cost%20Local-First%20AI%20Routing%20%26%20Agentic%20Bridge%20⚡&descSize=17&descAlignY=62&descAlign=50" width="100%" alt="Antigravity OmniRoute Engine Banner" />
 </p>
 
-[Quick Start](#-quick-start) • [Architecture](#-visual-architecture--topology-diagrams) • [Model Catalog](#-active-model-catalog) • [Recovery Guide](#-emergency-disaster-recovery-guide) • [Contributing](#-contributing--community)
+<!-- ========== 2. ANIMATED TYPING SVG BANNER ========== -->
+<p align="center">
+  <a href="https://github.com/Sadique721/antigravity-omniroute-engine">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=100%25+Free+%26+Open-Source+AI+Pair+Programming;Ollama+Local+Inference%3A+DeepSeek-R1+%2B+Qwen+2.5;OmniRoute+Unified+OpenAI-Compatible+Proxy;Zero+Cost+%7C+Zero+API+Limits+%7C+100%25+Private" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ========== 3. REPOSITORY SHIELDS & BADGES ROW ========== -->
+<p align="center">
+  <a href="https://github.com/Sadique721/antigravity-omniroute-engine"><img src="https://komarev.com/ghpvc/?username=Sadique721-antigravity-omniroute-engine&color=22d3ee&style=for-the-badge&label=ENGINE+VIEWS" alt="Engine Views" /></a>
+  <a href="https://github.com/Sadique721/antigravity-omniroute-engine/stargazers"><img src="https://img.shields.io/github/stars/Sadique721/antigravity-omniroute-engine?style=for-the-badge&logo=github&color=gold" alt="Stars" /></a>
+  <a href="https://github.com/Sadique721/antigravity-omniroute-engine/network/members"><img src="https://img.shields.io/github/forks/Sadique721/antigravity-omniroute-engine?style=for-the-badge&logo=github&color=blue" alt="Forks" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" /></a>
+</p>
+
+<p align="center">
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-v24.12.0-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" /></a>
+  <a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-Local%20Inference-black?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
+  <a href="https://github.com/Sadique721/antigravity-omniroute-engine"><img src="https://img.shields.io/badge/System-100%25%20Verified-success?style=for-the-badge" alt="Verified" /></a>
+  <a href="https://github.com/Sadique721/antigravity-omniroute-engine"><img src="https://img.shields.io/badge/STATUS-ACTIVE%20%26%20SYNCED-00b4d8?style=for-the-badge" alt="Status" /></a>
+</p>
+
+<p align="center">
+  <a href="#6-quick-start--client-configuration"><b>🚀 Quick Start</b></a> • 
+  <a href="#2-visual-architecture--topology-diagrams"><b>🏛️ Architecture</b></a> • 
+  <a href="#5-active-model-catalog-zero-cost--free-tiers"><b>🧠 Models</b></a> • 
+  <a href="#7-emergency-disaster-recovery-guide"><b>🛠️ Recovery</b></a> • 
+  <a href="#-contributing--community"><b>🤝 Contributing</b></a>
+</p>
 
 ---
-
-</div>
 
 ## 📑 Table of Contents
 - [1. Executive Architecture Overview](#1-executive-architecture-overview)
@@ -32,7 +47,7 @@
 - [9. Vercel Egress & SOCKS5 Proxy Solver](#9-vercel-egress--socks5-proxy-solver)
 - [10. Integration Gate Verification & Test Evidence](#10-integration-gate-verification--test-evidence)
 - [11. Quick Command Cheatsheet](#11-quick-command-cheatsheet)
-- [12. Author & License](#-author--license)
+- [12. Connect & Author](#-connect--coding-profiles)
 
 ---
 
@@ -301,14 +316,30 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+<!-- ========== 12. CONNECT & CODING PROFILES (PROFILE STYLE) ========== -->
+<h3 align="center">🌐 Connect & Coding Profiles</h3>
 
-**MD Sadique Amin**
-* **GitHub:** [@Sadique721](https://github.com/Sadique721)
-* **Project Repository:** [antigravity-omniroute-engine](https://github.com/Sadique721/antigravity-omniroute-engine)
+<p align="center">
+  <a href="https://github.com/Sadique721"><img src="https://img.shields.io/badge/GitHub-Sadique721-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/md-sadique-amin-b6a948190"><img src="https://img.shields.io/badge/LinkedIn-Md_Sadique_Amin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/Sadique721/"><img src="https://img.shields.io/badge/LeetCode-Sadique721-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/mdsadiqueamin71"><img src="https://img.shields.io/badge/HackerRank-mdsadiqueamin71-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="mailto:mdsadiqueamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
----
+<!-- ========== 13. SUPPORT & SPONSOR SECTION ========== -->
+<h3 align="center">☕ Support & Contributions</h3>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sadique721"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+  <a href="https://ko-fi.com/sadique721"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
+</p>
+
+<!-- ========== 14. DYNAMIC FOOTER WAVE ANIMATION ========== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a855f7&height=120&section=footer&width=100%" alt="Footer Wave" />
+</p>
 
 <div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/Sadique721">Sadique721</a> &bull; Powered by Antigravity AI Engine &bull; 100% Free & Open Source</sub>
+  <sub>Crafted with passion & engineering precision by <a href="https://github.com/Sadique721"><b>MD Sadique Amin</b></a> &bull; Powered by <b>Antigravity AI Engine</b> &bull; 100% Free & Open Source</sub>
 </div>
