@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=500&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AI%20Model%20Routing;Omniroute%20Performance%20Optimization;Intelligent%20Request%20Load%20Balancer" alt="Typing SVG">
 </p>
 
+<!-- ========== NEW: HIGH QUALITY PROJECT BANNER ========== -->
+<p align="center">
+  <img src="project_banner.svg" width="100%">
+</p>
+
+
 <!-- ========== NEW: AUTHOR & ARCHITECT SECTION ========== -->
 ## 👨‍💻 Author & Architect
 
