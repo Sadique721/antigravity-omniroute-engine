@@ -1,11 +1,7 @@
 <!-- ========== NEW: ANIMATED WAVE HEADER ========== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=200&section=header&text=antigravity-omniroute-engine&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Antigravity%20Omniroute%20Engine&descAlignY=60&descAlign=50" width="100%">
-</p>
-
 <!-- ========== NEW: TYPING ANIMATION INTRO ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=700&lines=AI Model Routing;Omniroute Performance Optimization;Intelligent Request Load Balancer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=500&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AI%20Model%20Routing;Omniroute%20Performance%20Optimization;Intelligent%20Request%20Load%20Balancer" alt="Typing SVG">
 </p>
 
 <!-- ========== NEW: AUTHOR & ARCHITECT SECTION ========== -->
