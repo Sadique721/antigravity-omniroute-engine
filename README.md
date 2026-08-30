@@ -32,6 +32,20 @@
 </tr>
 </table>
 
+<!-- ========== NEW: SYSTEM DIAGRAM SECTION ========== -->
+## 📊 System Architecture & Workflow
+
+```mermaid
+flowchart TD
+    A[AI Agent Request] --> B[Omniroute Engine]
+    B --> C{Routing Engine}
+    C -->|Fast Query| D[Gemini Flash / High Speed]
+    C -->|Complex Logic| E[Gemini Pro / High Reasoning]
+    D --> F[Response Optimizer]
+    E --> F
+    F --> G[Client Payload Return]
+```
+
 ---
 
 <!-- ========== 1. DYNAMIC HEADER BANNER (CAPSULE RENDER) ========== -->
